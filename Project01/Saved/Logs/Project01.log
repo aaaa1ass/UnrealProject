@@ -3972,3 +3972,24 @@ Would you like to continue?
 [2025.05.26-11.54.06:336][542]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 2.
 [2025.05.26-11.54.06:656][542]LogExit: Object subsystem successfully closed.
 [2025.05.26-11.54.06:789][542]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.26-11.54.12:107][542]LogMemoryProfiler: Shutdown
+[2025.05.26-11.54.12:108][542]LogNetworkingProfiler: Shutdown
+[2025.05.26-11.54.12:108][542]LoadingProfiler: Shutdown
+[2025.05.26-11.54.12:109][542]LogTimingProfiler: Shutdown
+[2025.05.26-11.54.15:081][542]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.26-11.54.15:093][542]RenderDocPlugin: plugin has been unloaded.
+[2025.05.26-11.54.15:210][542]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.26-11.54.15:213][542]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.26-11.54.15:337][542]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 2 outstanding Http Requests:
+[2025.05.26-11.54.15:337][542]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B49C60831-4B81-F7B2-20E1-DEBB0A4C3CB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=da8a3a2a4c4e8999969414b4eb21c10a%7C2907a1c9f3cf4b9aa281b5b0fbbf7afe%7Caae0f402-9ebf-4a1e-b426-e84d542e7f69&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.26-11.54.15:337][542]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B49C60831-4B81-F7B2-20E1-DEBB0A4C3CB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=da8a3a2a4c4e8999969414b4eb21c10a%7C2907a1c9f3cf4b9aa281b5b0fbbf7afe%7Caae0f402-9ebf-4a1e-b426-e84d542e7f69&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.26-11.54.20:367][542]LogEOSSDK: Warning: LogHttp: 0000092CDB4DDE00: request was cancelled
+[2025.05.26-11.54.20:367][542]LogEOSSDK: Warning: LogHttp: 0000092CDB4D0000: request was cancelled
+[2025.05.26-11.54.20:367][542]LogEOSSDK: Warning: LogHttp: 0000092CDB4DA200: request was cancelled
+[2025.05.26-11.54.20:398][542]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.26-11.54.20:527][542]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.26-11.54.20:527][542]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.26-11.54.20:531][542]LogPakFile: Destroying PakPlatformFile
+[2025.05.26-11.54.21:923][542]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.26-11.54.22:022][542]LogExit: Exiting.
+[2025.05.26-11.54.22:223][542]Log file closed, 05/26/25 20:54:22
